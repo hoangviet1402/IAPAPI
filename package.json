@@ -1,0 +1,21 @@
+{
+  "name": "finderrelate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node   --max-old-space-size=10096 index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lru-cache": "^5.1.1",
+    "mssql": "^4.0.0",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.0",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}

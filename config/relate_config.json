@@ -1,0 +1,18 @@
+{
+  "output_json": "F:/code/finderRelate/outputJson_test/",
+  "search_data_in_file_forever": "F:/code/finderRelate/outputJson_test/",
+  "main_path": "F:\\code\\finderRelate\\outputJson_test\\Main",
+  "rar_path": "F:\\code\\finderRelate\\finderRelate\\rar",
+  "forever_path": "F:\\code\\finderRelate\\outputJson_test\\id",
+  "path_main_backup": "F:\\code\\finderRelate\\outputJson_test\\bkmain",
+  "port": 8913,
+  "batch_size": 30000,
+  "directory_range": 1000000,
+  "file_range": 10000,
+  "is_search_forever": true,
+  "is_search_short": true,
+  "directory_range_forever": 1000000,
+  "file_range_forever": 10000,
+  "out_type_search": ["ip"],
+  "is_used_bk": 0
+}
