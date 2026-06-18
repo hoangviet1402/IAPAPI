@@ -4,7 +4,7 @@ const dataHelper = require("./dataHelper");
 const https = require('https');
 require("../globalVariable");
 
-const file_range = global._file_range_forever; // phạm vi file
+const fileRange = this.fileRange; // phạm vi file
 const directory_forever_path = global._forever_path
 const directory_main_path =global._main_path
 const path_main_backup =global._path_main_backup
